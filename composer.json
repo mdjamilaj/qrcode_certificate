@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "mpdf/qrcode": "^1.0",
+        "khanamiryan/qrcode-detector-decoder": "^1.0"
+    }
+}
